@@ -1,0 +1,8 @@
+Model,Best Parameters,Best ROC-AUC
+Logistic Regression,"{'C': 1, 'solver': 'liblinear'}",0.8472
+Decision Tree,"{'max_depth': 5, 'min_samples_split': 2}",0.8179
+Random Forest,"{'max_depth': 5, 'n_estimators': 50}",0.8434
+KNN,"{'n_neighbors': 11, 'weights': 'uniform'}",0.7917
+SVM,"{'C': 1, 'kernel': 'linear'}",0.8446
+XGBoost,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}",0.8461
+LightGBM,"{'learning_rate': 0.05, 'n_estimators': 100, 'num_leaves': 20}",0.8439

@@ -1,0 +1,118 @@
+Feature,Importance,Model
+Contract_Two year,0.13206023814495,Random Forest
+Long_Term_Customer,0.12998061074789216,Random Forest
+tenure,0.09939209833754832,Random Forest
+InternetService_Fiber optic,0.06943047903054016,Random Forest
+OnlineSecurity_Yes,0.06074796420854754,Random Forest
+Fiber_Internet,0.05272367851046753,Random Forest
+PaperlessBilling,0.047186833286312214,Random Forest
+Contract_One year,0.04595237364128486,Random Forest
+TotalCharges,0.039419015031242594,Random Forest
+TechSupport_Yes,0.038326705520587014,Random Forest
+PaymentMethod_Electronic check,0.02842609920352662,Random Forest
+Electronic_Check,0.02808227707549145,Random Forest
+MonthlyCharges,0.026217587886789746,Random Forest
+Avg_Monthly_Spend,0.022808596959415728,Random Forest
+OnlineSecurity_No internet service,0.02082666311367015,Random Forest
+Internet_User,0.017339111023863134,Random Forest
+InternetService_No,0.017274118050633565,Random Forest
+StreamingTV_No internet service,0.017055441927833984,Random Forest
+TechSupport_No internet service,0.012547494716495078,Random Forest
+OnlineBackup_Yes,0.011673076836146767,Random Forest
+Has_Multiple_Services,0.011278898006384187,Random Forest
+DeviceProtection_No internet service,0.010689397215968599,Random Forest
+Auto_Payment,0.010326484227160307,Random Forest
+High_Monthly_Charge,0.007184968433959642,Random Forest
+Dependents,0.006327413334440407,Random Forest
+OnlineBackup_No internet service,0.005429430904272279,Random Forest
+MultipleLines_Yes,0.004968587480127345,Random Forest
+StreamingMovies_Yes,0.004817069688706036,Random Forest
+Family_Customer,0.004270976511077568,Random Forest
+gender,0.002993842492456447,Random Forest
+StreamingTV_Yes,0.0027343095284396665,Random Forest
+StreamingMovies_No internet service,0.002324233864394918,Random Forest
+SeniorCitizen,0.0017156266207372188,Random Forest
+PhoneService,0.001682692270588198,Random Forest
+Partner,0.0015563262870912056,Random Forest
+MultipleLines_No phone service,0.0014662524640129794,Random Forest
+PaymentMethod_Credit card (automatic),0.0011572114241054057,Random Forest
+PaymentMethod_Mailed check,0.0009888115289248347,Random Forest
+DeviceProtection_Yes,0.0006170044639142719,Random Forest
+Contract_Two year,0.18090662360191345,XGBoost
+Contract_One year,0.14603662490844727,XGBoost
+Long_Term_Customer,0.08813903480768204,XGBoost
+PaperlessBilling,0.06328734010457993,XGBoost
+Internet_User,0.062178969383239746,XGBoost
+Fiber_Internet,0.058038920164108276,XGBoost
+OnlineSecurity_Yes,0.04895760118961334,XGBoost
+Electronic_Check,0.04454715922474861,XGBoost
+StreamingMovies_Yes,0.03519698977470398,XGBoost
+TechSupport_Yes,0.03513791784644127,XGBoost
+StreamingTV_Yes,0.03220013901591301,XGBoost
+Dependents,0.031693942844867706,XGBoost
+tenure,0.02773819863796234,XGBoost
+gender,0.027423785999417305,XGBoost
+MultipleLines_Yes,0.02365928702056408,XGBoost
+Has_Multiple_Services,0.02027309685945511,XGBoost
+OnlineBackup_Yes,0.019873064011335373,XGBoost
+Auto_Payment,0.00849552545696497,XGBoost
+MonthlyCharges,0.008339700289070606,XGBoost
+PhoneService,0.007692200597375631,XGBoost
+PaymentMethod_Credit card (automatic),0.005822435487061739,XGBoost
+Partner,0.005478936713188887,XGBoost
+Avg_Monthly_Spend,0.00514017092064023,XGBoost
+PaymentMethod_Mailed check,0.004717804025858641,XGBoost
+TotalCharges,0.003570972941815853,XGBoost
+DeviceProtection_Yes,0.00332274055108428,XGBoost
+SeniorCitizen,0.002130853943526745,XGBoost
+High_Monthly_Charge,0.0,XGBoost
+Family_Customer,0.0,XGBoost
+InternetService_Fiber optic,0.0,XGBoost
+MultipleLines_No phone service,0.0,XGBoost
+OnlineSecurity_No internet service,0.0,XGBoost
+InternetService_No,0.0,XGBoost
+OnlineBackup_No internet service,0.0,XGBoost
+DeviceProtection_No internet service,0.0,XGBoost
+StreamingTV_No internet service,0.0,XGBoost
+TechSupport_No internet service,0.0,XGBoost
+StreamingMovies_No internet service,0.0,XGBoost
+PaymentMethod_Electronic check,0.0,XGBoost
+tenure,313.0,LightGBM
+MonthlyCharges,142.0,LightGBM
+OnlineSecurity_Yes,110.0,LightGBM
+gender,99.0,LightGBM
+Contract_Two year,88.0,LightGBM
+PaperlessBilling,87.0,LightGBM
+MultipleLines_Yes,85.0,LightGBM
+OnlineBackup_Yes,85.0,LightGBM
+Avg_Monthly_Spend,81.0,LightGBM
+Contract_One year,80.0,LightGBM
+TotalCharges,79.0,LightGBM
+TechSupport_Yes,73.0,LightGBM
+StreamingTV_Yes,71.0,LightGBM
+StreamingMovies_Yes,67.0,LightGBM
+Dependents,56.0,LightGBM
+Fiber_Internet,54.0,LightGBM
+Has_Multiple_Services,53.0,LightGBM
+Long_Term_Customer,51.0,LightGBM
+PaymentMethod_Credit card (automatic),44.0,LightGBM
+DeviceProtection_Yes,36.0,LightGBM
+Electronic_Check,30.0,LightGBM
+Internet_User,25.0,LightGBM
+SeniorCitizen,21.0,LightGBM
+Family_Customer,19.0,LightGBM
+Partner,16.0,LightGBM
+Auto_Payment,14.0,LightGBM
+PhoneService,11.0,LightGBM
+PaymentMethod_Mailed check,8.0,LightGBM
+High_Monthly_Charge,2.0,LightGBM
+InternetService_Fiber optic,0.0,LightGBM
+MultipleLines_No phone service,0.0,LightGBM
+OnlineSecurity_No internet service,0.0,LightGBM
+InternetService_No,0.0,LightGBM
+OnlineBackup_No internet service,0.0,LightGBM
+DeviceProtection_No internet service,0.0,LightGBM
+StreamingTV_No internet service,0.0,LightGBM
+TechSupport_No internet service,0.0,LightGBM
+StreamingMovies_No internet service,0.0,LightGBM
+PaymentMethod_Electronic check,0.0,LightGBM
